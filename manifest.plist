@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://120.76.28.57/ios_tracker/CHTracker.ipa</string>
+					<string>https://raw.githubusercontent.com/finzaghi9/ios_tracker/master/CHTracker.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://120.76.28.57/ios_tracker/icon_180.png</string>
+					<string>https://raw.githubusercontent.com/finzaghi9/ios_tracker/master/icon_180.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://120.76.28.57/ios_tracker/icon_180.png</string>
+					<string>https://raw.githubusercontent.com/finzaghi9/ios_tracker/master/icon_180.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.changhong.CHTracker</string>
 				<key>bundle-version</key>
-				<string>1.1.0</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
